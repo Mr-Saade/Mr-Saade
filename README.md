@@ -1,6 +1,6 @@
 ### Hi there 👋,
 
-I'm Samir Saade, a blockchain developer and a smart contract engineer with a twist! 🌪️ In a past life, I roamed the world of networks as a network engineer. But guess what? I found a shortcut to the future – the exciting world of blockchain! 🚀
+I'm Samir Saade but commonly known by colleagues in the space as "MrSaade", a smart contract and security engineer with a twist! 🌪️ In a past life, I roamed the world of networks as a network engineer. But guess what? I found a shortcut to the future – the exciting world of blockchain! 🚀
 
 🔗 Now, I'm all about forging decentralized paths and waving goodbye to those old-fashioned systems. No more middlemen, no more nonsense! It's time to build trust and efficiency with blockchain magic. ✨
 
